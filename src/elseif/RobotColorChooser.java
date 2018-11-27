@@ -18,6 +18,8 @@ public class RobotColorChooser {
 		//5. Use an if/else statement to set the pen color that the user requested
 		if (color.equals("blue")){
 			
+		}else(color.equals("red")){
+			
 		}
         //6. If the user doesn’t enter anything, choose a random color
 
